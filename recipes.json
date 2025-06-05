@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "name": "Shahi Paneer",
+        "description": "A rich and creamy paneer dish.",
+        "ingredients": [
+            "250g paneer",
+            "2 onions",
+            "2 tomatoes",
+            "1 cup cream"
+        ],
+        "instructions": "Cook onions and tomatoes. Add spices, cream, and paneer. Serve hot."
+    }
+]
